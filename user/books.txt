@@ -1,0 +1,5 @@
+1 HarryPotter JKRowling 29.99 10
+2 TheGreatGatsby FScottFitzgerald 19.99 5
+3 ToKillAMockingbird HarperLee 15.99 8
+4 MobyDick HermanMelville 25.99 3
+5 WarAndPeace LeoTolstoy 35.99 2
